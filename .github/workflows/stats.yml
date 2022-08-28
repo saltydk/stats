@@ -25,3 +25,4 @@ jobs:
         with:
           repository: ${{ matrix.statsRepo }}
           ghtoken: ${{ secrets.GH_TOKEN }}
+      - uses: gautamkrishnar/keepalive-workflow@v1
