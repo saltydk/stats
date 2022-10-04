@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,294,123
+/saltyorg/Saltbox/tree/master/roles,54,20
+/saltyorg/Saltbox/issues,47,25
+/saltyorg/Saltbox/actions,22,3
+/saltyorg/Saltbox/search,18,5
+/saltyorg/Saltbox/tree/master/defaults,15,9
+/saltyorg/Saltbox/blob/master/saltbox.yml,14,12
+/saltyorg/Saltbox/tree/master/scripts,13,8
+/saltyorg/Saltbox/blob/master/roles/plex/defaults/main.yml,8,3
+/saltyorg/Saltbox/tree/master/roles/rclone,7,6
