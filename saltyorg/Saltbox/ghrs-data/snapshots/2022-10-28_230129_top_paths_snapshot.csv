@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,493,216
+/saltyorg/Saltbox/tree/master/roles,92,21
+/saltyorg/Saltbox/actions,54,2
+/saltyorg/Saltbox/issues,53,28
+/saltyorg/Saltbox/search,34,11
+/saltyorg/Saltbox/tree/master/defaults,27,10
+/saltyorg/Saltbox/commits/master,24,7
+/saltyorg/Saltbox/blob/master/saltbox.yml,17,13
+/saltyorg/Saltbox/blob/master/roles/docker/tasks/subtasks/binary/binary.yml,17,1
+/saltyorg/Saltbox/actions/workflows/saltbox.yml,14,2
