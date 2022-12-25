@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltydk/SARotate,15,9
+/saltydk/SARotate/search,3,1
+/saltydk/SARotate/blob/main/Models/RCloneCommands/RCloneServiceAccountCommand.cs,2,1
+/saltydk/SARotate/tree/main/Models,2,1
+/saltydk/SARotate/tree/main/Models/RCloneCommands,2,1
+/saltydk/SARotate/blob/main/.github/workflows/build-binaries.yml,1,1
+/saltydk/SARotate/blob/main/Models/Google/ServiceAccount.cs,1,1
+/saltydk/SARotate/blob/main/Models/NotificationConfig.cs,1,1
+/saltydk/SARotate/blob/main/Models/RCloneConfig.cs,1,1
+/saltydk/SARotate/blob/main/Models/RCloneRCCommandResult.cs,1,1
