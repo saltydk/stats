@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,377,159
+/saltyorg/Saltbox/tree/master/roles,129,24
+/saltyorg/Saltbox/issues,64,27
+/saltyorg/Saltbox/tree/master/inventories,40,13
+/saltyorg/Saltbox/tree/traefik3,35,8
+/saltyorg/Saltbox/tree/master/roles/remote,35,5
+/saltyorg/Saltbox/tree/master/defaults,34,15
+/saltyorg/Saltbox/tree/master/resources,24,7
+/saltyorg/Saltbox/tree/master/roles/remote/templates,24,4
+/saltyorg/Saltbox/tree/master/roles/unionfs/tasks/subtasks,22,1
