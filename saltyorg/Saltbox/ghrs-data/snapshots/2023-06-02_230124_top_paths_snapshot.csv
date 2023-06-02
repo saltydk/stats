@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,387,206
+/saltyorg/Saltbox/tree/master/roles,118,25
+/saltyorg/Saltbox/issues,77,32
+/saltyorg/Saltbox/tree/traefik3,40,11
+/saltyorg/Saltbox/tree/master/inventories,37,11
+/saltyorg/Saltbox/tree/master/defaults,35,9
+/saltyorg/Saltbox/tree/master/roles/autoscan,25,5
+/saltyorg/Saltbox/tree/master/resources,22,7
+/saltyorg/Saltbox/blob/master/roles/remote/templates/rclone_vfs.service.j2,20,5
+/saltyorg/Saltbox/search,20,2
