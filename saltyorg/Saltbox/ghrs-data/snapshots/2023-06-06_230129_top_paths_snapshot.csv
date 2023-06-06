@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,349,188
+/saltyorg/Saltbox/tree/master/roles,106,23
+/saltyorg/Saltbox/issues,75,29
+/saltyorg/Saltbox/tree/master/inventories,35,10
+/saltyorg/Saltbox/tree/traefik3,30,9
+/saltyorg/Saltbox/tree/master/defaults,26,6
+/saltyorg/Saltbox/tree/master/roles/autoscan,21,5
+/saltyorg/Saltbox/blob/91fb8db832e434d9e0b4f575d1d376d71072f927/roles/plex/defaults/main.yml,20,12
+/saltyorg/Saltbox/blob/master/saltbox.yml,20,9
+/saltyorg/Saltbox/blob/traefik3/roles/ddns/defaults/main.yml,19,3
