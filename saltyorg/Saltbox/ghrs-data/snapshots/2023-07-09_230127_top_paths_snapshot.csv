@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,333,192
+/saltyorg/Saltbox/tree/master/roles,77,14
+/saltyorg/Saltbox/issues,42,17
+/saltyorg/Saltbox/tree/traefik3,22,5
+/saltyorg/Saltbox/search,19,7
+/saltyorg/Saltbox/tree/traefik3/roles,15,3
+/saltyorg/Saltbox/blob/master/roles/remote/templates/rclone_vfs.service.j2,15,2
+/saltyorg/Saltbox/commits/traefik3,14,3
+/saltyorg/Saltbox/tree/master/roles/unionfs/defaults,13,6
+/saltyorg/Saltbox/tree/master/roles/unionfs,11,6
