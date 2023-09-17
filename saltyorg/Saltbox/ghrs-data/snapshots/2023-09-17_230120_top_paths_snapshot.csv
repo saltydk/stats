@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,270,136
+/saltyorg/Saltbox/tree/master/roles,131,23
+/saltyorg/Saltbox/issues,50,25
+/saltyorg/Saltbox/tree/traefik3,49,9
+/saltyorg/Saltbox/commits/traefik3,30,5
+/saltyorg/Saltbox/actions,30,2
+/saltyorg/Saltbox/tree/master/roles/hetzner_nfs/templates/client,22,2
+/saltyorg/Saltbox/tree/master/roles/hetzner_nfs/templates,21,2
+/saltyorg/Saltbox/commits/master,20,9
+/saltyorg/Saltbox/blob/a49479e48264696fade8762ae21b67154f0ae4e7/roles/remote/defaults/main.yml,20,5
