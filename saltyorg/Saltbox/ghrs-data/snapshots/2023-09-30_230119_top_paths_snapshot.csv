@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,492,200
+/saltyorg/Saltbox/tree/master/roles,247,39
+/saltyorg/Saltbox/issues,75,40
+/saltyorg/Saltbox/commit/b46368190ebeca59f394638ee6190f0d474dd953,50,33
+/saltyorg/Saltbox/tree/master/inventories,48,7
+/saltyorg/Saltbox/commits/master,47,15
+/saltyorg/Saltbox/tree/master/roles/remote/tasks,39,5
+/saltyorg/Saltbox/blob/master/roles/unionfs/defaults/main.yml,34,13
+/saltyorg/Saltbox/tree/master/roles/remote,34,6
+/saltyorg/Saltbox/tree/master/roles/remote/templates,27,7
