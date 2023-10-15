@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,520,302
+/saltyorg/Saltbox/tree/master/roles,244,49
+/saltyorg/Saltbox/tree/master/roles/remote/templates,109,21
+/saltyorg/Saltbox/commits/master,58,15
+/saltyorg/Saltbox/issues,48,28
+/saltyorg/Saltbox/tree/master/roles/remote,37,11
+/saltyorg/Saltbox/blob/master/saltbox.yml,33,12
+/saltyorg/Saltbox/tree/master/roles/gluetun,33,10
+/saltyorg/Saltbox/tree/master/roles/gluetun/defaults,30,9
+/saltyorg/Saltbox/blob/master/roles/authelia/templates/configuration.yml.j2,28,12
