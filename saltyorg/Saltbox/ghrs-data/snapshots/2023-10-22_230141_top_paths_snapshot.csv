@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,527,337
+/saltyorg/Saltbox/tree/master/roles,322,62
+/saltyorg/Saltbox/tree/master/defaults,79,16
+/saltyorg/Saltbox/tree/master/inventories,68,17
+/saltyorg/Saltbox/issues,65,30
+/saltyorg/Saltbox/tree/master/roles/gluetun,63,16
+/saltyorg/Saltbox/tree/master/roles/remote/templates,61,17
+/saltyorg/Saltbox/tree/master/roles/traefik,55,10
+/saltyorg/Saltbox/tree/master/roles/gluetun/defaults,53,15
+/saltyorg/Saltbox/tree/master/resources,51,10
