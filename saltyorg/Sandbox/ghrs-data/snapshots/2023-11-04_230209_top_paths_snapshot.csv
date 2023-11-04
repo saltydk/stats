@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox/tree/master/roles,66,15
+/saltyorg/Sandbox,55,29
+/saltyorg/Sandbox/issues,10,8
+/saltyorg/Sandbox/issues/301,9,5
+/saltyorg/Sandbox/blob/master/sandbox.yml,6,3
+/saltyorg/Sandbox/blob/master/roles/factorio/defaults/main.yml,6,2
+/saltyorg/Sandbox/blob/master/roles/qbit_manage/defaults/main.yml,6,2
+/saltyorg/Sandbox/blob/master/roles/glances_web/defaults/main.yml,6,1
+/saltyorg/Sandbox/blob/master/roles/influxdb/defaults/main.yml,6,1
+/saltyorg/Sandbox/tree/master/roles/glances_web,6,1
