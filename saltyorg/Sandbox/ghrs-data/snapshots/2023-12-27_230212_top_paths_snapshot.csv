@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox/tree/master/roles,50,12
+/saltyorg/Sandbox,43,20
+/saltyorg/Sandbox/issues,33,10
+/saltyorg/Sandbox/blob/master/sandbox.yml,19,7
+/saltyorg/Sandbox/blob/master/roles/nextcloud/defaults/main.yml,11,5
+/saltyorg/Sandbox/pulls,11,4
+/saltyorg/Sandbox/blob/master/roles/plex_meta_manager/defaults/main.yml,10,2
+/saltyorg/Sandbox/blob/master/roles/wordpress/tasks/main2.yml,10,2
+/saltyorg/Sandbox/pull/313,9,5
+/saltyorg/Sandbox/pull/313/files,7,7
