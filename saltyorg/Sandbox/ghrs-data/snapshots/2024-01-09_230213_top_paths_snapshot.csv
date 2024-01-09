@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox/tree/master/roles,111,20
+/saltyorg/Sandbox,77,38
+/saltyorg/Sandbox/issues,19,10
+/saltyorg/Sandbox/tree/master/roles/homeassistant,19,3
+/saltyorg/Sandbox/tree/master/roles/homeassistant/defaults,14,3
+/saltyorg/Sandbox/blob/master/roles/homeassistant/defaults/main.yml,13,3
+/saltyorg/Sandbox/pulls,10,5
+/saltyorg/Sandbox/blob/master/roles/paperless_ngx/defaults/main.yml,10,3
+/saltyorg/Sandbox/tree/master/roles/calibre_web,10,2
+/saltyorg/Sandbox/tree/master/roles/code_server/tasks,10,2
