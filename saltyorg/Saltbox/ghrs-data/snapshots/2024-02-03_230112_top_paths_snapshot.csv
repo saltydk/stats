@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,255,152
+/saltyorg/Saltbox/tree/master/roles,157,27
+/saltyorg/Saltbox/commits/master,85,10
+/saltyorg/Saltbox/issues,54,21
+/saltyorg/Saltbox/tree/master/scripts,25,8
+/saltyorg/Saltbox/blob/master/saltbox.yml,19,6
+/saltyorg/Saltbox/blob/master/defaults/settings.yml.default,18,3
+/saltyorg/Saltbox/tree/master/roles/jellyfin,18,3
+/saltyorg/Saltbox/tree/master/roles/traefik,17,4
+/saltyorg/Saltbox/tree/master/roles/restore/tasks,17,3
