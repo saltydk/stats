@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox/tree/master/roles,65,17
+/saltyorg/Sandbox,60,22
+/saltyorg/Sandbox/actions,59,2
+/saltyorg/Sandbox/actions/workflows/sandbox.yml,42,2
+/saltyorg/Sandbox/commits/master,26,6
+/saltyorg/Sandbox/pull/326,20,4
+/saltyorg/Sandbox/pulls,15,3
+/saltyorg/Sandbox/blob/master/roles/navidrome/defaults/main.yml,14,2
+/saltyorg/Sandbox/blob/0d796d95aaa9656a0950b946d536d215651f01bc/roles/nextcloud/defaults/main.yml,12,1
+/saltyorg/Sandbox/blob/master/roles/paperless_ngx/defaults/main.yml,10,3
