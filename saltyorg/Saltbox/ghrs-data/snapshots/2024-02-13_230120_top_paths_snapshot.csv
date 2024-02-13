@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,251,128
+/saltyorg/Saltbox/tree/master/roles,138,25
+/saltyorg/Saltbox/commits/master,89,7
+/saltyorg/Saltbox/issues,44,13
+/saltyorg/Saltbox/tree/master/scripts,34,10
+/saltyorg/Saltbox/tree/master/inventories,30,8
+/saltyorg/Saltbox/tree/master/roles/docker,29,4
+/saltyorg/Saltbox/tree/master/roles/traefik,19,4
+/saltyorg/Saltbox/tree/master/roles/common,17,3
+/saltyorg/Saltbox/tree/master/roles/traefik/tasks,17,3
