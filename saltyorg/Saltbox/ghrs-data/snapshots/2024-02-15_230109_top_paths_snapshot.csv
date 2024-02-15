@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,244,121
+/saltyorg/Saltbox/tree/master/roles,118,22
+/saltyorg/Saltbox/commits/master,75,7
+/saltyorg/Saltbox/issues,37,13
+/saltyorg/Saltbox/tree/master/scripts,28,9
+/saltyorg/Saltbox/tree/master/roles/traefik,25,5
+/saltyorg/Saltbox/tree/master/inventories,23,7
+/saltyorg/Saltbox/tree/master/roles/docker,22,3
+/saltyorg/Saltbox/tree/master/roles/traefik/tasks,19,4
+/saltyorg/Saltbox/blob/e4185b9ea465d15219e7c526a77e4e466f7f7820/resources/tasks/instances/sonarr.yml,19,1
