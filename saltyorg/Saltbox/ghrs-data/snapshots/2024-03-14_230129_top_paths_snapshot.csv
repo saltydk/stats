@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,1356,1009
+/saltyorg/Saltbox/tree/master/roles,128,28
+/saltyorg/Saltbox/tree/master/scripts,51,17
+/saltyorg/Saltbox/commits/master,50,11
+/saltyorg/Saltbox/tree/master/defaults,45,12
+/saltyorg/Saltbox/tree/master/inventories,44,14
+/saltyorg/Saltbox/issues,37,19
+/saltyorg/Saltbox/tree/master/resources,34,11
+/saltyorg/Saltbox/tree/master/ansible_facts.d,29,8
+/saltyorg/Saltbox/tree/master/library,27,9
