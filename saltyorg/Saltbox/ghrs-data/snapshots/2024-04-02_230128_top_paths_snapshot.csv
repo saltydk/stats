@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,220,140
+/saltyorg/Saltbox/tree/master/roles,110,30
+/saltyorg/Saltbox/tree/master/resources,31,12
+/saltyorg/Saltbox/commits/master,30,8
+/saltyorg/Saltbox/issues,19,12
+/saltyorg/Saltbox/tree/master/scripts,19,8
+/saltyorg/Saltbox/tree/master/roles/qbittorrent/tasks,18,2
+/saltyorg/Saltbox/tree/master/roles/traefik,16,4
+/saltyorg/Saltbox/tree/master/resources/tasks,14,5
+/saltyorg/Saltbox/tree/master/resources/tasks/docker,14,5
