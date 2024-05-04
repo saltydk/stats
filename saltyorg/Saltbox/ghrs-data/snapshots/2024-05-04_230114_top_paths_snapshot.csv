@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,255,137
+/saltyorg/Saltbox/tree/master/roles,152,19
+/saltyorg/Saltbox/commits/master,67,6
+/saltyorg/Saltbox/issues,56,20
+/saltyorg/Saltbox/tree/master/roles/traefik,35,6
+/saltyorg/Saltbox/tree/master/roles/traefik/tasks,27,3
+/saltyorg/Saltbox/blob/master/roles/traefik/defaults/main.yml,24,5
+/saltyorg/Saltbox/commits/authentik,23,4
+/saltyorg/Saltbox/tree/master/roles/traefik/defaults,22,5
+/saltyorg/Saltbox/blob/master/roles/traefik/tasks/main.yml,20,3
