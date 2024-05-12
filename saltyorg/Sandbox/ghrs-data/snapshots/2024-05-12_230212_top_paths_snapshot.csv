@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox/tree/master/roles,56,13
+/saltyorg/Sandbox,45,27
+/saltyorg/Sandbox/blob/master/roles/immich/defaults/main.yml,16,3
+/saltyorg/Sandbox/blob/bac4a106728dbcdab467ffb5075a676bf79e8ee5/roles/nextcloud/defaults/main.yml,13,1
+/saltyorg/Sandbox/tree/master/roles/mqtt,12,1
+/saltyorg/Sandbox/blob/master/sandbox.yml,10,5
+/saltyorg/Sandbox/pulls,10,3
+/saltyorg/Sandbox/tree/master/roles/immich/defaults,10,3
+/saltyorg/Sandbox/blob/master/roles/immich/tasks/main.yml,10,2
+/saltyorg/Sandbox/blob/master/roles/lgsm/tasks/main2.yml,10,1
