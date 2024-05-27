@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,241,141
+/saltyorg/Saltbox/tree/master/roles,107,25
+/saltyorg/Saltbox/commits/master,72,9
+/saltyorg/Saltbox/issues,64,22
+/saltyorg/Saltbox/tree/master/scripts,30,10
+/saltyorg/Saltbox/pulls,30,9
+/saltyorg/Saltbox/tree/master/roles/traefik,26,2
+/saltyorg/Saltbox/tree/master/library,23,10
+/saltyorg/Saltbox/blob/f93efcbc2a433019943d7afbcde7127c9ac5d43d/roles/docker/defaults/main.yml,22,5
+/saltyorg/Saltbox/blob/master/roles/authelia/templates/configuration.yml.j2,20,8
