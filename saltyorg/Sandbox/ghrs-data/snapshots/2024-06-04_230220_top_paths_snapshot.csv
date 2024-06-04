@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox/tree/master/roles,67,16
+/saltyorg/Sandbox,55,28
+/saltyorg/Sandbox/tree/master/roles/nextcloud,16,3
+/saltyorg/Sandbox/tree/master/roles/nextcloud/defaults,14,3
+/saltyorg/Sandbox/commits/master,13,4
+/saltyorg/Sandbox/blob/master/roles/nextcloud/defaults/main.yml,12,3
+/saltyorg/Sandbox/tree/master/roles/wordpress,12,1
+/saltyorg/Sandbox/tree/master/roles/immich/tasks,11,3
+/saltyorg/Sandbox/blob/master/roles/immich/tasks/main.yml,10,3
+/saltyorg/Sandbox/blob/master/roles/minecraft/defaults/main.yml,10,3
