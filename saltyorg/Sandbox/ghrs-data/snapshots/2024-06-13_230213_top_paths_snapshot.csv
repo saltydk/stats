@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox/tree/master/roles,92,16
+/saltyorg/Sandbox,84,29
+/saltyorg/Sandbox/commits/master,28,4
+/saltyorg/Sandbox/pulls,24,6
+/saltyorg/Sandbox/tree/master/roles/dockwatch,22,4
+/saltyorg/Sandbox/tree/master/roles/dockwatch/defaults,21,4
+/saltyorg/Sandbox/tree/master/roles/nextcloud,21,4
+/saltyorg/Sandbox/tree/master/roles/nextcloud/defaults,19,4
+/saltyorg/Sandbox/blob/master/roles/dockwatch/defaults/main.yml,18,4
+/saltyorg/Sandbox/blob/master/roles/nextcloud/defaults/main.yml,16,4
