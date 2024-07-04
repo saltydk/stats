@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,261,129
+/saltyorg/Saltbox/tree/master/roles,179,25
+/saltyorg/Saltbox/commits/master,78,4
+/saltyorg/Saltbox/issues,55,16
+/saltyorg/Saltbox/tree/master/inventories,33,8
+/saltyorg/Saltbox/tree/master/defaults,26,6
+/saltyorg/Saltbox/tree/master/scripts,25,7
+/saltyorg/Saltbox/tree/master/roles/remote/templates,22,6
+/saltyorg/Saltbox/tree/master/inventories/host_vars,19,7
+/saltyorg/Saltbox/tree/master/inventories/group_vars,17,6
