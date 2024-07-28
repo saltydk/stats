@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,235,150
+/saltyorg/Saltbox/tree/master/roles,202,40
+/saltyorg/Saltbox/commits/master,82,8
+/saltyorg/Saltbox/tree/master/inventories,60,7
+/saltyorg/Saltbox/tree/master/defaults,53,6
+/saltyorg/Saltbox/tree/master/resources,37,3
+/saltyorg/Saltbox/actions,34,2
+/saltyorg/Saltbox/tree/master/inventories/group_vars,33,5
+/saltyorg/Saltbox/blob/master/inventories/group_vars/all.yml,33,3
+/saltyorg/Saltbox/blob/master/defaults/ansible.cfg.default,32,2
