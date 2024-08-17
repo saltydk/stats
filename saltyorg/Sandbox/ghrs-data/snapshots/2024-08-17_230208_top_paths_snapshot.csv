@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox,45,15
+/saltyorg/Sandbox/issues,34,6
+/saltyorg/Sandbox/blob/master/sandbox.yml,15,3
+/saltyorg/Sandbox/tree/master/roles,10,4
+/saltyorg/Sandbox/pulls,9,3
+/saltyorg/Sandbox/commits/master,9,1
+/saltyorg/Sandbox/branches,8,1
+/saltyorg/Sandbox/tree/master/.github,7,1
+/saltyorg/Sandbox/issues/376,6,4
+/saltyorg/Sandbox/blob/master/roles/paperless_ngx/defaults/main.yml,6,1
