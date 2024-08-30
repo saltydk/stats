@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,170,94
+/saltyorg/Saltbox/tree/master/roles,67,13
+/saltyorg/Saltbox/commits/master,33,3
+/saltyorg/Saltbox/blob/master/defaults/providers.yml.default,22,3
+/saltyorg/Saltbox/tree/master/scripts,20,5
+/saltyorg/Saltbox/blob/6ba6dc0a22e78d89966444050eec8306e1d052fb/roles/nvidia/defaults/main.yml,17,7
+/saltyorg/Saltbox/pulls,14,3
+/saltyorg/Saltbox/commits/master/roles,14,1
+/saltyorg/Saltbox/issues,13,8
+/saltyorg/Saltbox/tree/master/resources,13,4
