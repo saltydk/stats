@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,220,121
+/saltyorg/Saltbox/tree/master/roles,96,17
+/saltyorg/Saltbox/issues,38,9
+/saltyorg/Saltbox/commits/master,34,5
+/saltyorg/Saltbox/tree/master/inventories,29,5
+/saltyorg/Saltbox/tree/master/resources,23,3
+/saltyorg/Saltbox/tree/master/defaults,21,5
+/saltyorg/Saltbox/tree/master/resources/tasks,21,3
+/saltyorg/Saltbox/blob/master/resources/tasks/docker/create_docker_container.yml,18,4
+/saltyorg/Saltbox/blob/master/inventories/group_vars/all.yml,18,3
