@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,227,120
+/saltyorg/Saltbox/tree/master/roles,78,24
+/saltyorg/Saltbox/issues,41,17
+/saltyorg/Saltbox/actions,30,1
+/saltyorg/Saltbox/commits/master,20,7
+/saltyorg/Saltbox/pulls,17,3
+/saltyorg/Saltbox/blob/master/roles/authelia/defaults/main.yml,12,9
+/saltyorg/Saltbox/tree/master/roles/qbittorrent/tasks/subtasks/post-install,9,3
+/saltyorg/Saltbox/blob/master/roles/authelia/templates/configuration.yml.j2,8,6
+/saltyorg/Saltbox/blob/master/roles/qbittorrent/tasks/subtasks/pre-install/main.yml,8,1
