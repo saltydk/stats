@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,148,101
+/saltyorg/Saltbox/tree/master/roles,69,12
+/saltyorg/Saltbox/tree/master/inventories,20,8
+/saltyorg/Saltbox/issues,19,11
+/saltyorg/Saltbox/tree/master,13,4
+/saltyorg/Saltbox/blob/master/roles/authelia/defaults/main.yml,12,7
+/saltyorg/Saltbox/tree/master/defaults,12,4
+/saltyorg/Saltbox/tree/master/resources,11,4
+/saltyorg/Saltbox/tree/master/roles/qbittorrent,11,3
+/saltyorg/Saltbox/tree/master/inventories/group_vars,10,4
