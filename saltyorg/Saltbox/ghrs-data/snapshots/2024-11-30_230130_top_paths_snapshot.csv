@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,208,111
+/saltyorg/Saltbox/tree/master/roles,54,20
+/saltyorg/Saltbox/issues,24,13
+/saltyorg/Saltbox/commits/master,24,5
+/saltyorg/Saltbox/actions,21,2
+/saltyorg/Saltbox/tree/master/resources,16,6
+/saltyorg/Saltbox/tree/master,11,7
+/saltyorg/Saltbox/tree/master/resources/roles/dns,11,2
+/saltyorg/Saltbox/tree/master/roles/rclone,10,3
+/saltyorg/Saltbox/tree/master/roles/rclone/tasks/subtasks,9,3
