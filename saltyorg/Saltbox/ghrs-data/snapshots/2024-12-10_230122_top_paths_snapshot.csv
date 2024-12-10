@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,200,111
+/saltyorg/Saltbox/tree/master/roles,46,15
+/saltyorg/Saltbox/issues,27,16
+/saltyorg/Saltbox/commits/master,21,5
+/saltyorg/Saltbox/pulls,17,5
+/saltyorg/Saltbox/actions,16,2
+/saltyorg/Saltbox/tree/master/resources,13,5
+/saltyorg/Saltbox/tree/master/resources/roles/dns,11,3
+/saltyorg/Saltbox/blob/master/roles/plex/defaults/main.yml,10,2
+/saltyorg/Saltbox/tree/master,9,6
