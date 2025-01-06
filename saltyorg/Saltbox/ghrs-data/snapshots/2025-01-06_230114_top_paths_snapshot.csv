@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,187,118
+/saltyorg/Saltbox/tree/master/roles,30,17
+/saltyorg/Saltbox/issues,27,17
+/saltyorg/Saltbox/tree/master/defaults,10,8
+/saltyorg/Saltbox/blob/master/saltbox.yml,8,7
+/saltyorg/Saltbox/tree/master/requirements,8,6
+/saltyorg/Saltbox/pulls,8,5
+/saltyorg/Saltbox/tree/master/resources,7,6
+/saltyorg/Saltbox/tree/master/scripts,7,5
+/saltyorg/Saltbox/blob/master/scripts/saltbox_docker_controller.py,7,4
