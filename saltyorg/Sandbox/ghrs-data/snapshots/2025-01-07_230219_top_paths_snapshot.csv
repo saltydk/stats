@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox,30,21
+/saltyorg/Sandbox/tree/master/roles,29,12
+/saltyorg/Sandbox/issues,15,4
+/saltyorg/Sandbox/tree/master/roles/paperless_ngx,9,1
+/saltyorg/Sandbox/blob/master/roles/paperless_ngx/defaults/main.yml,8,1
+/saltyorg/Sandbox/blob/master/roles/paperless_ngx/tasks/main.yml,8,1
+/saltyorg/Sandbox/blob/master/roles/nextcloud/defaults/main.yml,7,2
+/saltyorg/Sandbox/blob/master/roles/barcodebuddy/defaults/main.yml,6,1
+/saltyorg/Sandbox/tree/master/roles/barcodebuddy,6,1
+/saltyorg/Sandbox/tree/master/roles/paperless_ngx/defaults,6,1
