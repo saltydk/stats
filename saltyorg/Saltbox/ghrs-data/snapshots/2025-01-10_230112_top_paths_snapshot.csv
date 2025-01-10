@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,192,122
+/saltyorg/Saltbox/tree/master/roles,36,20
+/saltyorg/Saltbox/issues,24,15
+/saltyorg/Saltbox/blob/090c04f56da2050a2b125b0bd6b5d208df10d196/inventories/group_vars/all.yml,11,8
+/saltyorg/Saltbox/pulls,9,3
+/saltyorg/Saltbox/blob/master/roles/authelia/templates/configuration.yml.j2,8,7
+/saltyorg/Saltbox/tree/master/defaults,7,7
+/saltyorg/Saltbox/tree/master/roles/remote/templates,7,4
+/saltyorg/Saltbox/issues/298,6,5
+/saltyorg/Saltbox/blob/master/scripts/saltbox_docker_controller.py,6,4
