@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox,34,23
+/saltyorg/Sandbox/tree/master/roles,32,15
+/saltyorg/Sandbox/issues,12,6
+/saltyorg/Sandbox/blob/master/roles/code_server/defaults/main.yml,12,2
+/saltyorg/Sandbox/blob/master/roles/nextcloud/defaults/main.yml,6,2
+/saltyorg/Sandbox/tree/master/roles/tandoor,6,1
+/saltyorg/Sandbox/tree/master/roles/stash,5,2
+/saltyorg/Sandbox/blob/master/roles/tandoor/defaults/main.yml,5,1
+/saltyorg/Sandbox/blob/master/roles/tandoor/tasks/main.yml,5,1
+/saltyorg/Sandbox/tree/master/roles/delugevpn,4,2
