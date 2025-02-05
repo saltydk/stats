@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,250,165
+/saltyorg/Saltbox/tree/master/roles,57,24
+/saltyorg/Saltbox/pulls,24,5
+/saltyorg/Saltbox/issues,20,14
+/saltyorg/Saltbox/issues/310,16,5
+/saltyorg/Saltbox/blob/master/roles/sabnzbd/tasks/subtasks/post-install/settings.yml,10,1
+/saltyorg/Saltbox/commits/master,9,5
+/saltyorg/Saltbox/blob/master/roles/sabnzbd/tasks/subtasks/post-install/main.yml,9,1
+/saltyorg/Saltbox/tree/master,8,5
+/saltyorg/Saltbox/blob/master/saltbox.yml,8,4
