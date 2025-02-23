@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox,41,18
+/saltyorg/Sandbox/tree/master/roles,29,13
+/saltyorg/Sandbox/issues,14,3
+/saltyorg/Sandbox/pulls,9,3
+/saltyorg/Sandbox/commits/master,6,3
+/saltyorg/Sandbox/blob/master/sandbox.yml,5,5
+/saltyorg/Sandbox/blob/master/roles/wireguard/defaults/main.yml,5,2
+/saltyorg/Sandbox/blob/master/roles/nextcloud/defaults/main.yml,5,1
+/saltyorg/Sandbox/tree/master/roles/booksonic,4,2
+/saltyorg/Sandbox/tree/master/roles/wireguard,4,2
