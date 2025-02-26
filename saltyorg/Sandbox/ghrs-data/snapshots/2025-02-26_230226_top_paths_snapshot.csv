@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox,53,17
+/saltyorg/Sandbox/tree/master/roles,24,12
+/saltyorg/Sandbox/issues,20,4
+/saltyorg/Sandbox/commits/master,6,4
+/saltyorg/Sandbox/pulls,6,3
+/saltyorg/Sandbox/blob/master/sandbox.yml,5,5
+/saltyorg/Sandbox/blob/master/roles/nextcloud/defaults/main.yml,5,1
+/saltyorg/Sandbox/blob/master/roles/wireguard/defaults/main.yml,4,1
+/saltyorg/Sandbox/commit/c829450ded064f56aaebdaf6f2987edfc2a5939a,3,3
+/saltyorg/Sandbox/issues/419,3,3
