@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,211,131
+/saltyorg/Saltbox/issues,39,17
+/saltyorg/Saltbox/tree/master/roles,33,19
+/saltyorg/Saltbox/pulls,13,6
+/saltyorg/Saltbox/commits/master,11,5
+/saltyorg/Saltbox/commit/fea60f37ad32e3438ad87bf439013f15f6cdf3b1,6,5
+/saltyorg/Saltbox/tree/master/roles/jellyfin,6,5
+/saltyorg/Saltbox/blob/master/roles/jellyfin/defaults/main.yml,6,4
+/saltyorg/Saltbox/tree/master/roles/remote,6,4
+/saltyorg/Saltbox/blob/master/defaults/providers.yml.default,6,3
