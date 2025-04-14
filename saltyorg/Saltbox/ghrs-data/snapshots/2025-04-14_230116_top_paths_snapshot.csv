@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,189,126
+/saltyorg/Saltbox/tree/master/roles,36,17
+/saltyorg/Saltbox/issues,18,10
+/saltyorg/Saltbox/tree/master/roles/plex,15,4
+/saltyorg/Saltbox/commits/master,12,4
+/saltyorg/Saltbox/pulls,10,5
+/saltyorg/Saltbox/blob/master/roles/system/tasks/subtasks/sysctl.yml,8,3
+/saltyorg/Saltbox/tree/master/roles/qbittorrent/defaults,8,2
+/saltyorg/Saltbox/tree/master/resources,7,6
+/saltyorg/Saltbox/blob/master/roles/qbittorrent/defaults/main.yml,7,2
