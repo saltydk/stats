@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox,36,21
+/saltyorg/Sandbox/tree/master/roles,22,13
+/saltyorg/Sandbox/issues,13,7
+/saltyorg/Sandbox/commits/master,6,3
+/saltyorg/Sandbox/blob/master/roles/deemix/defaults/main.yml,6,2
+/saltyorg/Sandbox/blob/master/roles/immich/defaults/main.yml,5,1
+/saltyorg/Sandbox/issues/428,4,4
+/saltyorg/Sandbox/blob/master/roles/gitea/defaults/main.yml,4,1
+/saltyorg/Sandbox/blob/master/roles/immich/tasks/main.yml,4,1
+/saltyorg/Sandbox/pull/429,3,3
