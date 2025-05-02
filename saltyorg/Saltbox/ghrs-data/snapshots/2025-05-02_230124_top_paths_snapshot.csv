@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,174,122
+/saltyorg/Saltbox/tree/master/roles,41,21
+/saltyorg/Saltbox/issues,20,12
+/saltyorg/Saltbox/blob/master/resources/tasks/docker/create_docker_container.yml,10,8
+/saltyorg/Saltbox/commits/master,10,5
+/saltyorg/Saltbox/tree/master,9,5
+/saltyorg/Saltbox/blob/master/roles/emby/defaults/main.yml,8,2
+/saltyorg/Saltbox/blob/fd0dccb95b72e65bae7880ae82e6711b4b687ad6/roles/traefik/tasks/main.yml,7,1
+/saltyorg/Saltbox/blob/master/roles/node_exporter/defaults/main.yml,7,1
+/saltyorg/Saltbox/blob/master/roles/gluetun/defaults/main.yml,6,4
