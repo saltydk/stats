@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,218,131
+/saltyorg/Saltbox/tree/master/roles,62,17
+/saltyorg/Saltbox/issues,47,13
+/saltyorg/Saltbox/blob/cf7a86086ae1ecc96f93be09b76aef34f0770834/roles/unionfs/defaults/main.yml,22,3
+/saltyorg/Saltbox/pulls,20,8
+/saltyorg/Saltbox/actions,16,1
+/saltyorg/Saltbox/blob/master/roles/remote/defaults/main.yml,14,5
+/saltyorg/Saltbox/blob/master/roles/unionfs/tasks/subtasks/variables.yml,14,3
+/saltyorg/Saltbox/blob/master/roles/remote/tasks/remote.yml,13,3
+/saltyorg/Saltbox/pull/341,13,3
