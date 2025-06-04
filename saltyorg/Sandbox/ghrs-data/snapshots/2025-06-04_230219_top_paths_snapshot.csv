@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox,34,18
+/saltyorg/Sandbox/tree/master/roles,24,12
+/saltyorg/Sandbox/pull/433,13,5
+/saltyorg/Sandbox/issues,7,2
+/saltyorg/Sandbox/blob/master/roles/homepage/defaults/main.yml,7,1
+/saltyorg/Sandbox/tree/master/roles/homepage,7,1
+/saltyorg/Sandbox/tree/master/roles/homepage/defaults,7,1
+/saltyorg/Sandbox/blob/master/roles/adguardhome/defaults/main.yml,6,1
+/saltyorg/Sandbox/blob/master/roles/adguardhome/tasks/main.yml,5,1
+/saltyorg/Sandbox/tree/master/roles/homepage/tasks,5,1
