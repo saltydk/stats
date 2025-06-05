@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,230,135
+/saltyorg/Saltbox/tree/master/roles,63,17
+/saltyorg/Saltbox/issues,43,12
+/saltyorg/Saltbox/pulls,20,8
+/saltyorg/Saltbox/actions,19,2
+/saltyorg/Saltbox/blob/master/roles/authelia/templates/configuration.yml.j2,14,9
+/saltyorg/Saltbox/pull/341,13,3
+/saltyorg/Saltbox/blob/master/roles/cloudplow/defaults/main.yml,10,1
+/saltyorg/Saltbox/blob/master/roles/cloudplow/tasks/main.yml,9,1
+/saltyorg/Saltbox/blob/master/roles/remote/defaults/main.yml,8,4
