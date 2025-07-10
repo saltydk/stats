@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,152,95
+/saltyorg/Saltbox/tree/master/roles,31,11
+/saltyorg/Saltbox/issues,19,13
+/saltyorg/Saltbox/pulls,15,8
+/saltyorg/Saltbox/pull/359,10,3
+/saltyorg/Saltbox/commits/role-refactor,8,1
+/saltyorg/Saltbox/tree/master/roles/qbittorrent,7,3
+/saltyorg/Saltbox/blob/dc15d8119f43c2a7f53abb1743f762f2781da29e/roles/rclone/tasks/subtasks/01_build_url.yml,7,1
+/saltyorg/Saltbox/tree/master/filter_plugins,7,1
+/saltyorg/Saltbox/blob/master/roles/authelia/defaults/main.yml,6,4
