@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,77,43
+/saltyorg/Saltbox/issues,12,4
+/saltyorg/Saltbox/tree/master/roles,11,9
+/saltyorg/Saltbox/issues/374,9,7
+/saltyorg/Saltbox/pulls,8,8
+/saltyorg/Saltbox/commits/role-refactor,7,1
+/saltyorg/Saltbox/tree/master/roles/remote/templates,5,3
+/saltyorg/Saltbox/blob/master/roles/plex/defaults/main.yml,5,2
+/saltyorg/Saltbox/commit/da51e67f41aa9a7476a6316f77bfda6c48463c78,4,3
+/saltyorg/Saltbox/blob/master/roles/remote/templates/sftp.j2,4,2
