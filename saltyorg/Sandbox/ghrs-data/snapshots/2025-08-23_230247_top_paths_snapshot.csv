@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox,12,6
+/saltyorg/Sandbox/issues,7,4
+/saltyorg/Sandbox/tree/master/roles,7,4
+/saltyorg/Sandbox/issues/445,4,2
+/saltyorg/Sandbox/blob/master/roles/filebrowser/defaults/main.yml,4,1
+/saltyorg/Sandbox/tree/master/roles/filebrowser,4,1
+/saltyorg/Sandbox/tree/master/roles/filebrowser/defaults,4,1
+/saltyorg/Sandbox/blob/master/roles/calibre/defaults/main.yml,3,2
+/saltyorg/Sandbox/tree/master/roles/filebrowser/tasks,3,1
+/saltyorg/Sandbox/tree/master/roles/filebrowser/tasks/subtasks,3,1
