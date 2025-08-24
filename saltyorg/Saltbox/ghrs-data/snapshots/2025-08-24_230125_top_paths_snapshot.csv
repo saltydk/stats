@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,27,19
+/saltyorg/Saltbox/pulls,6,6
+/saltyorg/Saltbox/commits/role-refactor,6,1
+/saltyorg/Saltbox/tree/master/roles,5,5
+/saltyorg/Saltbox/blob/da51e67f41aa9a7476a6316f77bfda6c48463c78/roles/plex/defaults/main.yml,4,1
+/saltyorg/Saltbox/blob/da51e67f41aa9a7476a6316f77bfda6c48463c78/roles/hetzner_nfs/tasks/main.yml,3,3
+/saltyorg/Saltbox/blob/master/defaults/adv_settings.yml.default,3,3
+/saltyorg/Saltbox/blob/da51e67f41aa9a7476a6316f77bfda6c48463c78/roles/docker/tasks/subtasks/network.yml,3,1
+/saltyorg/Saltbox/blob/da51e67f41aa9a7476a6316f77bfda6c48463c78/roles/hetzner_vlan/tasks/main.yml,3,1
+/saltyorg/Saltbox/tree/master/library,3,1
