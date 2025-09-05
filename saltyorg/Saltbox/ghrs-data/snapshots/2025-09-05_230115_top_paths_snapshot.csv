@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,11,10
+/saltyorg/Saltbox/blob/a7abea2baf6f27b974653d689af318161651ed25/roles/remote/templates/google.j2,2,1
+/saltyorg/Saltbox/pulls,2,1
+/saltyorg/Saltbox/blob/da51e67f41aa9a7476a6316f77bfda6c48463c78/roles/hetzner_nfs/tasks/main.yml,1,1
+/saltyorg/Saltbox/graphs/code-frequency,1,1
+/saltyorg/Saltbox/graphs/commit-activity,1,1
+/saltyorg/Saltbox/graphs/contributors,1,1
+/saltyorg/Saltbox/pull/396,1,1
+/saltyorg/Saltbox/pull/397,1,1
+/saltyorg/Saltbox/pulse,1,1
