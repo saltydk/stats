@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,281,170
+/saltyorg/Saltbox/issues,45,15
+/saltyorg/Saltbox/tree/master/roles,33,16
+/saltyorg/Saltbox/pulls,33,15
+/saltyorg/Saltbox/tree/master,12,7
+/saltyorg/Saltbox/commits/master,12,2
+/saltyorg/Saltbox/commit/ba08fc4ddcc181039059fe1874a0bad03aef3911,8,5
+/saltyorg/Saltbox/tree/master/inventories,6,3
+/saltyorg/Saltbox/tree/master/resources,5,5
+/saltyorg/Saltbox/blob/master/roles/rclone/defaults/main.yml,5,4
