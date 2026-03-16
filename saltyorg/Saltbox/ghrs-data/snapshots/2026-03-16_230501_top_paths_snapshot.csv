@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,246,119
+/saltyorg/Saltbox/tree/master/roles,58,10
+/saltyorg/Saltbox/commits/master,41,6
+/saltyorg/Saltbox/pulls,29,13
+/saltyorg/Saltbox/issues,27,16
+/saltyorg/Saltbox/tree/master,22,6
+/saltyorg/Saltbox/tree/master/roles/authelia,11,5
+/saltyorg/Saltbox/tree/master/roles/backup,10,3
+/saltyorg/Saltbox/tree/master/roles/cloudflare/tasks,9,1
+/saltyorg/Saltbox/tree/master/roles/traefik,8,3
