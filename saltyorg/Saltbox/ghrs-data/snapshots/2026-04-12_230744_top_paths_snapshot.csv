@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,224,122
+/saltyorg/Saltbox/tree/master/roles,40,14
+/saltyorg/Saltbox/issues,38,22
+/saltyorg/Saltbox/pulls,32,11
+/saltyorg/Saltbox/commits/master,16,8
+/saltyorg/Saltbox/tree/master/resources,9,6
+/saltyorg/Saltbox/blob/master/roles/authelia/templates/configuration.yml.j2,7,6
+/saltyorg/Saltbox/tree/master/roles/user/tasks,7,4
+/saltyorg/Saltbox/tree/master/library,6,4
+/saltyorg/Saltbox/tree/master,5,4
