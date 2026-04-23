@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,297,166
+/saltyorg/Saltbox/pulls,55,23
+/saltyorg/Saltbox/issues,42,25
+/saltyorg/Saltbox/tree/master/roles,27,12
+/saltyorg/Saltbox/commits/master,9,4
+/saltyorg/Saltbox/blob/85f8795974601e3e8b7a5a11e517daa5fa5f8b11/inventories/group_vars/all.yml,6,6
+/saltyorg/Saltbox/blob/master/roles/authelia/templates/configuration.yml.j2,6,6
+/saltyorg/Saltbox/tree/master/resources,6,5
+/saltyorg/Saltbox/stargazers,5,5
+/saltyorg/Saltbox/pull/490,5,3
