@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,251,161
+/saltyorg/Saltbox/pulls,37,21
+/saltyorg/Saltbox/issues,28,19
+/saltyorg/Saltbox/tree/master/roles,21,9
+/saltyorg/Saltbox/tree/master/roles/lldap,8,1
+/saltyorg/Saltbox/blob/85f8795974601e3e8b7a5a11e517daa5fa5f8b11/inventories/group_vars/all.yml,6,6
+/saltyorg/Saltbox/commits/master,5,5
+/saltyorg/Saltbox/tree/master/library,5,5
+/saltyorg/Saltbox/tree/master,5,3
+/saltyorg/Saltbox/tree/master/roles/system,5,2
