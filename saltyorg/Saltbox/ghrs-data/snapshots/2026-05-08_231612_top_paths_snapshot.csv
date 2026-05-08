@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,176,106
+/saltyorg/Saltbox/issues,30,17
+/saltyorg/Saltbox/pulls,27,17
+/saltyorg/Saltbox/tree/master/roles,18,11
+/saltyorg/Saltbox/issues/495,9,3
+/saltyorg/Saltbox/tree/master/roles/lldap,8,1
+/saltyorg/Saltbox/commits/master,7,6
+/saltyorg/Saltbox/tree/master/roles/lldap/tasks,5,1
+/saltyorg/Saltbox/tree/master/roles/authelia/tasks/subtasks,4,1
+/saltyorg/Saltbox/tree/master/roles/lldap/defaults,4,1
