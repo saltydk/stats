@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,151,89
+/saltyorg/Saltbox/pulls,30,9
+/saltyorg/Saltbox/issues,23,9
+/saltyorg/Saltbox/pull/497,22,6
+/saltyorg/Saltbox/tree/master/roles,6,5
+/saltyorg/Saltbox/issues/496,5,4
+/saltyorg/Saltbox/blob/c6f8c465687519a5ad8b63de3babda716530de43/.github/ISSUE_TEMPLATE.md,5,1
+/saltyorg/Saltbox/tree/master/scripts,3,3
+/saltyorg/Saltbox/blob/master/roles/backup/tasks/restore_service.yml,3,2
+/saltyorg/Saltbox/commits,3,2
