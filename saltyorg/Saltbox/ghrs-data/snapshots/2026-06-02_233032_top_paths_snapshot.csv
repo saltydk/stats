@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,153,86
+/saltyorg/Saltbox/pulls,26,12
+/saltyorg/Saltbox/issues,25,12
+/saltyorg/Saltbox/pull/497,25,8
+/saltyorg/Saltbox/tree/master/roles,6,5
+/saltyorg/Saltbox/blob/master/saltbox.yml,5,3
+/saltyorg/Saltbox/blob/c6f8c465687519a5ad8b63de3babda716530de43/.github/ISSUE_TEMPLATE.md,5,1
+/saltyorg/Saltbox/blob/master/roles/rclone/tasks/subtasks/01_build_url.yml,4,1
+/saltyorg/Saltbox/issues/496,3,3
+/saltyorg/Saltbox/blob/master/README.md,3,2
