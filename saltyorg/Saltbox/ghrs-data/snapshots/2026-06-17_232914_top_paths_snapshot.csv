@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,147,75
+/saltyorg/Saltbox/pulls,21,9
+/saltyorg/Saltbox/tree/master/roles,17,8
+/saltyorg/Saltbox/issues,16,11
+/saltyorg/Saltbox/blob/master/roles/rclone/tasks/subtasks/01_build_url.yml,5,1
+/saltyorg/Saltbox/tree/master/library,4,2
+/saltyorg/Saltbox/commits/master,3,2
+/saltyorg/Saltbox/blob/master/roles/traefik/defaults/main.yml,3,1
+/saltyorg/Saltbox/tree/master/roles/traefik,3,1
+/saltyorg/Saltbox/issues/483,2,2
