@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,160,86
+/saltyorg/Saltbox/pulls,21,8
+/saltyorg/Saltbox/tree/master/roles,17,8
+/saltyorg/Saltbox/issues,12,11
+/saltyorg/Saltbox/tree/master/roles/autoplow,7,3
+/saltyorg/Saltbox/blob/master/roles/unionfs/templates/mergerfs.service.j2,5,3
+/saltyorg/Saltbox/tree/master/library,5,3
+/saltyorg/Saltbox/blob/master/roles/rclone/tasks/subtasks/01_build_url.yml,5,1
+/saltyorg/Saltbox/tree/c3dde29540b4ce18070c32e5b3a4b2166b903562/roles/mariadb,5,1
+/saltyorg/Saltbox/tree/master/scripts,4,4
