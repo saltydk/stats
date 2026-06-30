@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,174,96
+/saltyorg/Saltbox/pulls,31,13
+/saltyorg/Saltbox/issues,20,18
+/saltyorg/Saltbox/tree/master/roles,18,8
+/saltyorg/Saltbox/forks,9,9
+/saltyorg/Saltbox/tree/master,7,4
+/saltyorg/Saltbox/actions,6,4
+/saltyorg/Saltbox/commits/master,5,4
+/saltyorg/Saltbox/blob/master/roles/unionfs/templates/mergerfs.service.j2,5,3
+/saltyorg/Saltbox/tree/c3dde29540b4ce18070c32e5b3a4b2166b903562/roles/mariadb,5,1
