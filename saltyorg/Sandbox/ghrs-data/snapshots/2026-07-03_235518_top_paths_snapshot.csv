@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Sandbox,13,10
+/saltyorg/Sandbox/tree/master/roles,8,4
+/saltyorg/Sandbox/tree/master/roles/wireguard,6,2
+/saltyorg/Sandbox/pull/537,5,3
+/saltyorg/Sandbox/tree/master/roles/wireguard/defaults,4,2
+/saltyorg/Sandbox/blob/430f609dd925dc015f8415a1c0774ca0177058d1/roles/koel/defaults/main.yml,4,1
+/saltyorg/Sandbox/blob/master/roles/wireguard/defaults/main.yml,3,2
+/saltyorg/Sandbox/commits/master,3,2
+/saltyorg/Sandbox/pulls,3,2
+/saltyorg/Sandbox/tree/master,3,1
