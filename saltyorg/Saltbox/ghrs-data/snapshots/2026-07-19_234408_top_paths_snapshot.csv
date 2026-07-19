@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,158,82
+/saltyorg/Saltbox/pulls,29,17
+/saltyorg/Saltbox/issues,29,16
+/saltyorg/Saltbox/tree/master/roles,13,4
+/saltyorg/Saltbox/commits/master,7,4
+/saltyorg/Saltbox/tree/master/defaults,6,1
+/saltyorg/Saltbox/blob/master/inventories/group_vars/all.yml,5,3
+/saltyorg/Saltbox/tree/pre-role-refactor,4,3
+/saltyorg/Saltbox/blob/master/saltbox.yml,3,3
+/saltyorg/Saltbox/issues/455,3,3
