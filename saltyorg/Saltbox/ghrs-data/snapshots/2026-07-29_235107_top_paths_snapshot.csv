@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,141,78
+/saltyorg/Saltbox/pulls,43,33
+/saltyorg/Saltbox/issues,16,11
+/saltyorg/Saltbox/tree/master/roles,12,5
+/saltyorg/Saltbox/commits/master,8,4
+/saltyorg/Saltbox/pull/502,6,2
+/saltyorg/Saltbox/tree/master/roles/prometheus,6,1
+/saltyorg/Saltbox/tree/master/inventories,5,4
+/saltyorg/Saltbox/blob/master/inventories/group_vars/all.yml,5,3
+/saltyorg/Saltbox/blob/master/roles/prometheus/tasks/main.yml,5,1
