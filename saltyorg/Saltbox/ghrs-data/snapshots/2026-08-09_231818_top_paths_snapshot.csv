@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,188,93
+/saltyorg/Saltbox/tree/master/roles,36,13
+/saltyorg/Saltbox/actions,36,3
+/saltyorg/Saltbox/pulls,33,12
+/saltyorg/Saltbox/issues,20,12
+/saltyorg/Saltbox/commits/master,19,10
+/saltyorg/Saltbox/blob/master/roles/traefik/tasks/subtasks/zerossl.yml,9,4
+/saltyorg/Saltbox/pull/508,9,4
+/saltyorg/Saltbox/tree/master/defaults,9,4
+/saltyorg/Saltbox/tree/master/inventories,7,3
