@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,170,92
+/saltyorg/Saltbox/issues,29,11
+/saltyorg/Saltbox/pulls,25,10
+/saltyorg/Saltbox/tree/master/roles,22,7
+/saltyorg/Saltbox/commits/master,13,7
+/saltyorg/Saltbox/actions,10,3
+/saltyorg/Saltbox/issues/455,8,4
+/saltyorg/Saltbox/blob/master/defaults/providers.yml.default,7,2
+/saltyorg/Saltbox/blob/master/roles/crowdsec/defaults/main.yml,5,2
+/saltyorg/Saltbox/pull/515,5,2
