@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/saltyorg/Saltbox,170,80
+/saltyorg/Saltbox/issues,36,15
+/saltyorg/Saltbox/pulls,33,18
+/saltyorg/Saltbox/tree/master/roles,22,8
+/saltyorg/Saltbox/actions,8,6
+/saltyorg/Saltbox/commits/master,8,5
+/saltyorg/Saltbox/commit/67d81e969cad8ef9b00333ad940c31c3aa0e8135,5,3
+/saltyorg/Saltbox/actions/runs/35461216405,5,2
+/saltyorg/Saltbox/commit/57e45ec03a43dfb2ea264a5b12ea1a174fbf2a1e,3,3
+/saltyorg/Saltbox/blob/master/ansible.cfg,3,2
